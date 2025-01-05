@@ -1,0 +1,6 @@
+@inproceedings{REPO183,
+    author = "Zakka, Kevin and Wu, Philipp and Smith, Laura and Gileadi, Nimrod and Howell, Taylor and Peng, Xue Bin and Singh, Sumeet and Tassa, Yuval and Florence, Pete and Zeng, Andy and Abbeel, Pieter",
+    booktitle = "Conference on Robot Learning (CoRL)",
+    title = "{RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning}",
+    year = "2023"
+}
